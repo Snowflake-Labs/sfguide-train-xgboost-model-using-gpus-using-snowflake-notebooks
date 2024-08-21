@@ -6,4 +6,4 @@ In this quickstart, we'll explore how to harness the power of [Snowpark Containe
 
 ## Step-By-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/train_xgboost_with_gpus/index.html).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/train-xgboost-with-gpus/index.html).
