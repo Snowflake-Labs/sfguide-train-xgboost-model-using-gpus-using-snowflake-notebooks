@@ -1,3 +1,5 @@
+[![Snowflake - Certified Solution](https://img.shields.io/badge/Snowflake-Certified_Solution-2ea44f?style=for-the-badge&logo=snowflake)](https://developers.snowflake.com/solutions/)
+
 # Train XGBoost using GPUs with Snowflake Notebooks
 
 ## Overview
